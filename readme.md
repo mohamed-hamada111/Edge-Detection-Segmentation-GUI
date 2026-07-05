@@ -90,10 +90,8 @@ Features:
 
 Flip the image in different directions.
 
-Supported modes:
+Supported mode is 
 - Horizontal
-- Vertical
-- Both
 
 Uses:
 
@@ -256,7 +254,7 @@ python main.py
 
 ## Author
 
-**Mohamed**
+**Mohamed Hamada **
 
 Faculty of Engineering
 
